@@ -1,0 +1,38 @@
+/* Reset default properties */
+* {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+html,
+body {
+  /* font-family: "Kanit", sans-serif; */
+  /* font-family: "Nunito", sans-serif; */
+  /* font-family: "Tangerine", cursive; */
+  font-family: "Varela Round", sans-serif;
+  scroll-behavior: smooth;
+}
+
+/* reset a & litag  */
+a {
+  text-decoration: none;
+  color: #ffffff;
+}
+li {
+  list-style-type: none;
+  color: #ffffff;
+}
+
+/* ======================================================== 
+                    Define CSS Variables
+   ========================================================*/
+:root {
+  --HeroSectionColor: #003d62;
+  --HeaderColor: #0089b7;
+}
+
+/* ====================================== 
+        Header or navbar designe
+   ======================================*/
+ 
